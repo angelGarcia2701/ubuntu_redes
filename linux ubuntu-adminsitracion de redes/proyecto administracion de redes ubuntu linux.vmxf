@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 ff 32 9a 15 f0 bf aa-fb b8 f4 a8 30 bd b4 37</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">proyecto administracion de redes ubuntu linux.vmx</vmxPathName></VM></Foundry>
